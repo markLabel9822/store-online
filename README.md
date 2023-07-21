@@ -7,5 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
-pensource.org/licenses/MIT).
+## How to install 
+
+composer install
+
+php artisan migrate
+
+php artisan db:seed
+
+config file .env (database mysql)
+
+php artisan serve
+
